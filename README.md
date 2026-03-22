@@ -1,12 +1,12 @@
 ![alt text](banner.png)
 
-# Hi, I'm Marilyn
+# hi, i'm marilyn👋👩‍💻
 
 web designer & developer  
 building digital experiences with heart, clarity, and just the right amount of **boldness**.
 
 
-## ✶ about
+## ✶ about :
 
 i’m focused on:
 - web design
