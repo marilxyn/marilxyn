@@ -1,4 +1,6 @@
-# hi, I'm marilyn gable
+![alt text](banner.png)
+
+# Hi, I'm Marilyn
 
 web designer & developer  
 building digital experiences with heart, clarity, and just the right amount of **boldness**.
