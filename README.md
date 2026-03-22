@@ -17,10 +17,10 @@ i’m focused on:
 
 ## ✶ tools
 
-html / css / javascript / python
-figma  
-adobe creative suite  
-github  
+- html / css / javascript / python
+- figma  
+- adobe creative suite  
+- github  
 
 
 ## ✶ connect
