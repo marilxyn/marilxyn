@@ -1,16 +1,28 @@
-## Hi there 👋
+# hi, I'm marilyn gable
 
-<!--
-**marilxyn/marilxyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+web designer & developer  
+building digital experiences with heart, clarity, and just the right amount of **boldness**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✶ about
+
+i’m focused on:
+- web design
+- front-end development
+- ux / ui design
+- visual systems + branding
+
+
+## ✶ tools
+
+html / css / javascript / python
+figma  
+adobe creative suite  
+github  
+
+
+## ✶ connect
+
+portfolio → https://builtbymar.com  
+email → builtbymar@gmail.com  
+linkedin → https://linkedin.com/in/marilyngable  
